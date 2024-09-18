@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: gaurdocker/hello-world
-  digest: sha256:10d069be412cda508b7eb17aac279dab02727979867dd94029622c682665285b
+  newTag: v1.2.0
